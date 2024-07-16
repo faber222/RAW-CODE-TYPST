@@ -5,5 +5,4 @@ Todo o código usado está dentro do main.typ
 Exemplo do PDF gerado:
 [PDf](RawCodeTypst.pdf)
 
-<object data="RawCodeTypst.pdf" type="application/pdf" width="100%" height="600px">
-</object>
+<iframe src="RawCodeTypst.pdf" width="100%" height="600px"></iframe>
